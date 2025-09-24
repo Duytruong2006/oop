@@ -1,0 +1,9 @@
+Solution1: sets a, b, and t equal to the original value of a.
+Solution4: (a == b)
+Solution6:
+a       b       a ^ b
+----------------
+true    true    false
+true    false   true
+false   true    true
+false   false   false
